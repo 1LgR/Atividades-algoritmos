@@ -2,7 +2,7 @@
 
 int main(){
     int l,c;
-    printf("Digite quantas linhas e colunas você quer que a matriz tenha: ");
+    printf("Digite quantas linhas e colunas voce quer que a matriz tenha: ");
     scanf("%i%i", &l,&c);
     int a[l][c];
     int i,j;
